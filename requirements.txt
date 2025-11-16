@@ -1,0 +1,17 @@
+# Servidor ONNX 
+onnxruntime
+numpy
+pillow
+
+# Entrenamiento del modelo
+torch
+torchvision
+scikit-learn
+matplotlib
+seaborn
+onnx
+onnx-tf
+
+# Utilidades 
+kagglehub
+
