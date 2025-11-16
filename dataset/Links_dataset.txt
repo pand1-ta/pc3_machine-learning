@@ -1,0 +1,3 @@
+Para el desarrollo de este proyecto, se ha utilizado el siguiente dataset:
+
+https://www.kaggle.com/datasets/gopalbhattrai/pascal-voc-2012-dataset
